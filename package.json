@@ -16,7 +16,6 @@
     "prepublish": "require-npm4-to-publish"
   },
   "dependencies": {
-    "hexy": "^0.3.0",
     "ip-address": "^10.1.0"
   },
   "devDependencies": {
