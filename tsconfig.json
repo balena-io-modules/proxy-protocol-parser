@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"module": "Node18",
+		"strict": true,
+		"allowJs": true,
+		"checkJs": true,
+		"noImplicitAny": false,
+		"noUnusedParameters": true,
+		"noUnusedLocals": true,
+		"preserveConstEnums": true,
+		"sourceMap": true,
+		"declaration": true,
+		"skipLibCheck": true,
+		"exactOptionalPropertyTypes": true,
+	},
+	"include": [
+		"index.js",
+		"lib/**/*",
+		"test/**/*",
+		"typings/**/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
