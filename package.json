@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "hexy": "^0.3.0",
-    "ip-address": "^5.9.0"
+    "ip-address": "^10.1.0"
   },
   "devDependencies": {
     "@balena/lint": "^6.2.2",
