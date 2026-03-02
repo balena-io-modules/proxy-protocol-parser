@@ -1,7 +1,46 @@
 - commits:
+    - subject: Remove unused `hexy` dependency
+      hash: c4f4bb356b142a554d6a92a44683a472eefb1775
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+    - subject: Update `ip-address` dependency
+      hash: 2a651b40d778b40ce7b68f6d8f4d43c84ba16c7a
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+    - subject: Switch to balena-lint
+      hash: 6577e361c1969fba03476e7d2211c695308db36f
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+    - subject: Add basic typescript checking
+      hash: ffaca40fc69760794332fa16ce614ecd0b449a4c
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+    - subject: Switch to flowzone
+      hash: 4b6735421c669c5e494cc60161dec038cd945dc0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 1.0.3
+  title: ""
+  date: 2026-03-02T15:04:31.223Z
+- commits:
     - subject: gracefully handle v2 healthcheck headers
       hash: 380cdf05af5a6edde1a14ef9d1759730bbad741d
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -11,27 +50,27 @@
   version: 1.0.2
   date: 2020-09-01T12:45:06.264Z
 - commits:
-    - subject: 'npm: Update dependencies and remove `package-lock.json`'
+    - subject: "npm: Update dependencies and remove `package-lock.json`"
       hash: c96004dfc52bb52c11ec99f02f52909b5fdc632a
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
         Signed-off-by: Will Boyce <will@balena.io>
         signed-off-by: Will Boyce <will@balena.io>
       author: Will Boyce
-    - subject: 'codeowners: Add @wrboyce, @Page-, and @hedss'
+    - subject: "codeowners: Add @wrboyce, @Page-, and @hedss"
       hash: a131f9d360909bd72bfdb2aa3be73da23126993f
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
         Signed-off-by: Will Boyce <will@balena.io>
         signed-off-by: Will Boyce <will@balena.io>
       author: Will Boyce
-    - subject: 'versionbot: Add CHANGELOG.yml (for nested changelogs)'
+    - subject: "versionbot: Add CHANGELOG.yml (for nested changelogs)"
       hash: c06790b05d1d12fc52ed7691e3fdcb9db555ea76
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -41,47 +80,47 @@
   version: 1.0.1
   date: 2019-04-01T11:14:40.039Z
 - version: 1.0.0
-  date: '2019-03-13T14:17:04Z'
+  date: 2019-03-13T14:17:04Z
   commits:
     - hash: b55c91bd50a90f699ef73d57302c87a3c5b4c8ea
       author: Will Boyce
       footers:
         change-type: minor
         signed-off-by: Will Boyce <will@balena.io>
-      subject: 'v1: Do not require space between localPort and CRLF'
-      body: ''
+      subject: "v1: Do not require space between localPort and CRLF"
+      body: ""
     - hash: 236634734898fb454fee8cb3587d7a0a11076600
       author: Will Boyce
       footers:
         change-type: minor
         signed-off-by: Will Boyce <will@balena.io>
-      subject: 'v2: Version should be checked against only highest four bits'
-      body: ''
+      subject: "v2: Version should be checked against only highest four bits"
+      body: ""
     - hash: f7951ac151c43a777a89e82bbe5657398704cce6
       author: Will Boyce
       footers:
         change-type: major
         signed-off-by: Will Boyce <will@balena.io>
       subject: prepare for automatic versioning & publishing under @balena namespace
-      body: ''
+      body: ""
     - hash: 1e57fe7d0ffb170d3408fc109ba7bd2934f8727b
       author: Will Boyce
       footers:
         change-type: minor
         signed-off-by: Will Boyce <will@balena.io>
       subject: update dependencies
-      body: ''
+      body: ""
     - hash: 9a598e8cf6bcbf4532adca54c83d7615993f26bc
       author: Will Boyce
       footers:
         change-type: minor
         signed-off-by: Will Boyce <will@balena.io>
       subject: enforce prettier coding standards
-      body: ''
+      body: ""
     - hash: a58fa4615a9b8950fada3349c34f0698f2023026
       author: Will Boyce
       footers:
         change-type: patch
         signed-off-by: Will Boyce <will@balena.io>
       subject: add typescript typings
-      body: ''
+      body: ""

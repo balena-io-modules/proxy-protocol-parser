@@ -2,7 +2,7 @@
   "name": "@balena/proxy-protocol-parser",
   "description": "Encoder and Decoder for proxy protocol v1 text and v2 binary formats",
   "license": "Apache-2.0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "types": "typings/proxy-protocol-parser.d.ts",
   "repository": {
     "type": "git",
@@ -38,5 +38,8 @@
       "balena-lint --fix --typescript",
       "git add"
     ]
+  },
+  "versionist": {
+    "publishedAt": "2026-03-02T15:04:31.275Z"
   }
 }
